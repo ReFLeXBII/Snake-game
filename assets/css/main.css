@@ -1,0 +1,17 @@
+canvas {
+    display: block;
+    margin: 0 auto;
+}
+
+.button {
+    margin-top: 30px;
+    text-align: center;
+}
+
+.btn {
+    padding: 10px 15px;
+    background: #00ff00;
+    color: #908d8d;
+    text-decoration: none;
+    border-radius: 5px;
+}
